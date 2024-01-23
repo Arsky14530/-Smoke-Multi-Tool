@@ -38,8 +38,10 @@ Then install reqiured packages by double clicking `install.bat` file
 Run the Multi Tool by double clicking the Smoke Multi Tool file 
 
 Then Wait for aTLEST 3-5 Mins for it to load up. And Boom There You go Smoke Multi Tool is ready for you.
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 If You Do Not Turst It then Look Here.
+
 ps: it flags as virus cuz of nuitka with github link of nuitka with it
 https://nuitka.net/doc/user-manual.html 
 
